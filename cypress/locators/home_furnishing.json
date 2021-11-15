@@ -1,0 +1,20 @@
+{
+	"men_tab": ".Item_0 > .sf-with-ul > .main_navbtn_m",
+	"women_tab": ".Item_1 > .sf-with-ul > .main_navbtn_m",
+	"kids_tab": ".Item_2 > .sf-with-ul > .main_navbtn_m",
+	"sports_style_tab": ".Item_3 > a > .main_navbtn_m",
+	"inside_ascis": ".Item_4 > .sf-with-ul > .main_navbtn_m",
+	"sale_tab": ".Item_5 > .sf-with-ul > .main_navbtn_m",
+	"medical_workshoes": ".lastmenu > :nth-child(1) > .main_navbtn_m",
+	"kids_gender_fiter": "#CU00357156-013_ > .attributes_valuelist > :nth-child(1) > .rslink_id",
+	"expand_size_icon": ":nth-child(6) > td > #headingvar > .ui-accordion-header-icon",
+	"size_filter": "#Rs_374067 > :nth-child(2)",
+	"active_filter": ".filtered_items > label",
+	"filter_type_size": ".selected_items > #Rs_374067",
+	"expand_color_icon": ":nth-child(5) > td > #headingvar > .ui-accordion-header-icon",
+	"pink_color": "#Rs_CU00357156-017-12 > img",
+	"pink_color_filter": ".selected_items > #Rs_CU00357156-017-12 > :nth-child(3)",
+	"filter_type_colour": ".selected_items > #Rs_CU00357156-017-12",
+	"drop_down": "#drpSort",
+	"discount_data": ".mtb-offer.amount"
+}
