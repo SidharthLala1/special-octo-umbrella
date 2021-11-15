@@ -11,7 +11,9 @@ As we know that Node.js is a JavaScript runtime environment and Cypress being a 
 The project has a file which has all its dependencies. So, npm install should install the dependencies which are required for this project.
 Please run the below command to install all the dependencies under package.json
 
-npm intall
+# Command:
+
+npm install
 
 # Cypress Installation
 
